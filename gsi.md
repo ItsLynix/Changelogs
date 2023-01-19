@@ -2,8 +2,8 @@
 
 ### Changelog for Generic System Image (gsi)
 
-### v3.4
+### v3.5-FOD
 ```
-- Initial Official Gsi build
-- Stable AF
+- FOD reworked to support devices with alternate brightness paths
+- Minor unrelated changes
 ```
